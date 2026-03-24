@@ -19,6 +19,7 @@ I'm **JUBE** — a passionate System Engineer and Software Developer from Switze
 I work on hosting infrastructure, FiveM/GTA RP tooling, and full-stack web apps using Laravel.  
 For me, code isn't just a tool — it's my creative medium.
 
+- ⚡ Main GitHub Profile: **[julianbenz](https://github.com/julianbenz/)**
 - 🏗️ Self-hosting everything at **[jube-hosting.com](https://jube-hosting.com)**
 - 🎮 Building GTA RP management systems with live FiveM sync
 - 🔐 Interested in penetration testing & web security
@@ -67,8 +68,8 @@ For me, code isn't just a tool — it's my creative medium.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianbenz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianbenz&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=julianbenz1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianbenz1&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 ---
